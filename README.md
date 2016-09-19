@@ -26,7 +26,7 @@ generates the documentation for the methods contained in tags **pet** and
 
 **Note**
 
-The old directive for Swagger 1.0 is usable. For example,
+The old directive for Swagger 1.0 should still be usable. For example,
 
     .. swaggerdoc:: http://petstore.swagger.wordnik.com/api/api-docs/pet
     .. swaggerdoc:: http://petstore.swagger.wordnik.com/api/api-docs/user
